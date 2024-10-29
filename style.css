@@ -3,12 +3,16 @@
     padding: 0;
     box-sizing: border-box;
 }
-:root {
-    
-}
+
 .container {
     width: 1300px;
     margin: 48px auto 28px;
+
+}
+
+.list li p {
+    font-size: 16px;
+    line-height: 16px;
 }
 
 h3 {
@@ -41,5 +45,61 @@ h3 {
     height: 1px;
     margin: 36px 0;
     background-color: #d9d9d9;
+    margin:48px auto ;
 }
 
+
+
+
+
+span {
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: bold;
+}
+span a {
+    text-decoration: none;
+}
+.list {
+    margin-top: 64px;
+}
+
+.list ol li h1 {
+    width: 100%;
+    font-size: 30px;
+    font-weight: 600;
+    margin-right: 30px;
+}
+.list img {
+    margin-top: 48px;
+}
+
+.list li {
+    margin-left:  20px;
+}
+
+
+.descris {
+    text-align: center;
+}
+footer {
+    text-align:center ;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+}
+ ol li {
+    font-size: 32px;
+    font-weight: 700;
+    padding-right: 25px;
+}
+.list li {
+    margin-top: 20px;
+}
+
+
+.list ol li {
+   margin-left:47px;
+}
